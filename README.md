@@ -2,3 +2,8 @@
 apple
 banana
 orange
+
+# mobiles
+galaxy s9
+galaxy note 9
+iphone x
